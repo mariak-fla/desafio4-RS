@@ -237,7 +237,7 @@ body {
     color: hsl(var(--hue), 50%, 20%);
 }
 
-@media (min-width: 800px) {
+@media (min-width: 900px) {
     body::before {
         content: '';
 
@@ -352,7 +352,7 @@ body {
     }
 }
 
-@media only screen and (min-width: 500px) and (max-width: 800px) {
+@media only screen and (min-width: 500px) and (max-width: 900px) {
     body::before {
         height: 100%;
         width: 22rem;
@@ -366,10 +366,6 @@ body {
 
     body::before, .intro, footer {
         animation: leftright 0.5s ease;
-    }
-
-    .page {
-        height: 100vh;
     }
 
     .intro {
