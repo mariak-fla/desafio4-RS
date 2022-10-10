@@ -6,7 +6,7 @@ Neste desafio, a proposta era criar um layout responsivo com uma grid de imagens
 <br><br>
 🔗 [Clique aqui para ver o site!](https://mariak-fla.github.io/desafio4-RS/)
 
-#### ✨ Agradecimentos a [FranzWarm](https://github.com/franzwarm) que me ajudou a resolver um bug com o grid. 
+### ✨ Agradecimentos a [FranzWarm](https://github.com/franzwarm) que me ajudou a resolver um bug com o grid. 
 
 ## ⚙️ Tecnologias
 
