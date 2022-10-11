@@ -486,7 +486,7 @@ body {
     }
 
     .gallery {
-        animation: downtop 0.5 ease;
+        animation: downtop 0.5s ease;
     }
 }
 
